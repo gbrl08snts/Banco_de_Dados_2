@@ -1,6 +1,7 @@
 ## __Links__
 
-*
+- [ODBC](odbc-atividade-db/src/odbc.js)
+- [ORM](orm-atividade-db/src/orm.js)   
 
 ## __ODBC em Node.js__
 
